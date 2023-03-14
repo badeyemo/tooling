@@ -29,7 +29,7 @@ Update the application code in
 ```
 ./html/
 ```
-
+# The tooling code has been very useful to me.
 Then add/commit/push to gitlab
 
 ```
@@ -70,5 +70,5 @@ Default web root:
 ```
 /usr/share/nginx/html
 ```
-
+# Permission Granted
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
