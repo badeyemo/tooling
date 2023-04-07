@@ -72,3 +72,4 @@ Default web root:
 ```
 # Permission Granted
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
+On Easter Friday I, Adeyemo bamidele Victor updated this record for Jenkins Server.
